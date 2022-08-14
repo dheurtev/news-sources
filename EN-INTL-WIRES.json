@@ -9,37 +9,42 @@
 		"REUTERS": {
 			"website": "https://www.reuters.com/",
 			"twitter": "Reuters",
-			"rss": "https://nitter.net/Reuters/rss",
+			"rss_twitter": "https://nitter.net/Reuters/rss",
+			"rss_alt": "",
 			"google_news_url": "https://news.google.com/rss/search?q=source:reuters.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
 		},
 		"AP": {
 			"website": "https://apnews.com/",
 			"twitter": "AP",
-			"rss": "https://nitter.net/AP/rss",
+			"rss_twitter": "https://nitter.net/AP/rss",
+			"rss_alt": "",
 			"google_news_url": "https://news.google.com/rss/search?q=source:apnews.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
 		},
 		"BLOOMBERG": {
 			"website": "https://www.bloomberg.com/",
 			"twitter": "business",
-			"rss": "https://nitter.net/business/rss",
+			"rss_twitter": "https://nitter.net/business/rss",
+			"rss_alt": "",
 			"google_news_url": "https://news.google.com/rss/search?q=source:bloomberg.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
 		},
 		"AFP": {
 			"website": "https://www.afp.com/",
 			"twitter": "AFP",
-			"rss": "https://nitter.net/AFP/rss",
+			"rss_twitter": "https://nitter.net/AFP/rss",
+			"rss_alt": "",
 			"google_news_url": ""
 		},
 		"UPI": {
 			"website": "https://www.upi.com/",
 			"twitter": "UPI",
-			"rss": "https://nitter.net/UPI/rss",
+			"rss_twitter": "https://nitter.net/UPI/rss",
+			"rss_alt": "",
 			"google_news_url": "https://news.google.com/rss/search?q=source:upi.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
 		},
 		"BBC_COM": {
 			"website": "https://www.bbc.com/",
 			"twitter": "BBCBreaking",
-			"rss": "https://nitter.net/BBCBreaking/rss",
+			"rss_twitter": "https://nitter.net/BBCBreaking/rss",
 			"rss_alt": "http://feeds.bbci.co.uk/news/world/rss.xml",
 			"google_news_url": "https://news.google.com/rss/search?q=source:bbc.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
 		}
