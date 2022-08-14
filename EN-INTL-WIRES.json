@@ -1,0 +1,47 @@
+{
+	"name": "EN-INTL-WIRES",
+	"info": "Top International News Wires in English",
+	"date": "2022-08-14T00:00:00Z",
+	"count": 6,
+	"comment": "",
+	"active": true,
+	"sources": {
+		"REUTERS": {
+			"website": "https://www.reuters.com/",
+			"twitter": "Reuters",
+			"rss": "https://nitter.net/Reuters/rss",
+			"google_news_url": "https://news.google.com/rss/search?q=source:reuters.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"AP": {
+			"website": "https://apnews.com/",
+			"twitter": "AP",
+			"rss": "https://nitter.net/AP/rss",
+			"google_news_url": "https://news.google.com/rss/search?q=source:apnews.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"BLOOMBERG": {
+			"website": "https://www.bloomberg.com/",
+			"twitter": "business",
+			"rss": "https://nitter.net/business/rss",
+			"google_news_url": "https://news.google.com/rss/search?q=source:bloomberg.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"AFP": {
+			"website": "https://www.afp.com/",
+			"twitter": "AFP",
+			"rss": "https://nitter.net/AFP/rss",
+			"google_news_url": ""
+		},
+		"UPI": {
+			"website": "https://www.upi.com/",
+			"twitter": "UPI",
+			"rss": "https://nitter.net/UPI/rss",
+			"google_news_url": "https://news.google.com/rss/search?q=source:upi.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"BBC_COM": {
+			"website": "",
+			"twitter": "BBCBreaking",
+			"rss": "https://nitter.net/BBCBreaking/rss",
+			"rss_alt": "http://feeds.bbci.co.uk/news/world/rss.xml",
+			"google_news_url": "https://news.google.com/rss/search?q=source:bbc.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		}
+	}
+}
