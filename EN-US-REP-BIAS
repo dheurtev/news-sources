@@ -1,0 +1,73 @@
+{
+	"name": "EN-US-REP-BIAS",
+	"info": "Top US TV Channels, Newspapers and Magazines with a Republican bias",
+	"date": "2022-08-14T00:00:00Z",
+	"count": 9,
+	"comment": "",
+	"active": true,
+	"sources": {
+		"FOXNEWS": {
+			"website": "https://www.foxnews.com/",
+			"twitter": "FoxNews",
+			"rss": "https://nitter.net/FoxNews/rss",
+			"rss_alt": "https://moxie.foxnews.com/google-publisher/latest.xml",
+			"google_news_url": "https://news.google.com/rss/search?q=source:foxnews.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"NEWYORKPOST": {
+			"website": "https://nypost.com/",
+			"twitter": "nypost",
+			"rss": "https://nitter.net/nypost/rss",
+			"rss_alt": "https://nypost.com/feed/",
+			"google_news_url": "https://news.google.com/rss/search?q=source:nypost.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"NATIONAL_REVIEW": {
+			"website": "https://www.nationalreview.com/",
+			"twitter": "NRO",
+			"rss": "https://nitter.net/NRO/rss",
+			"rss_alt": "https://www.nationalreview.com/feed/",
+			"google_news_url": "https://news.google.com/rss/search?q=source:nationalreview.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"THE_BLAZE": {
+			"website": "https://www.theblaze.com/",
+			"twitter": "theblaze",
+			"rss": "https://nitter.net/theblaze/rss",
+			"rss_alt": "https://www.theblaze.com/feeds/feed.rss",
+			"google_news_url": "https://news.google.com/rss/search?q=source:theblaze.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"THE_DISPATCH": {
+			"website": "https://thedispatch.com/",
+			"twitter": "thedispatch",
+			"rss": "https://nitter.net/thedispatch/rss",
+			"rss_alt": "https://thedispatch.com/feed",
+			"google_news_url": "https://news.google.com/rss/search?q=source:thedispatch.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"WASHINGTON_TIMES": {
+			"website": "https://www.washingtontimes.com/",
+			"twitter": "WashTimes",
+			"rss": "https://nitter.net/WashTimes/rss",
+			"rss_alt": "https://www.washingtontimes.com/rss/headlines/news/",
+			"google_news_url": "https://news.google.com/rss/search?q=source:washingtontimes.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"WASHINGTON_EXAMINER": {
+			"website": "https://www.washingtonexaminer.com/",
+			"twitter": "dcexaminer",
+			"rss": "https://nitter.net/dcexaminer/rss",
+			"rss_alt": "https://www.washingtonexaminer.com/tag/news.rss",
+			"google_news_url": "https://news.google.com/rss/search?q=source:washingtonexaminer.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"BREIBART": {
+			"website": "https://www.breitbart.com/",
+			"twitter": "BreitbartNews",
+			"rss": "https://nitter.net/BreitbartNews/rss",
+			"rss_alt": "https://feeds.feedburner.com/breitbart",
+			"google_news_url": ""
+		},
+		"REASON": {
+			"website": "https://reason.com/",
+			"twitter": "reason",
+			"rss": "https://nitter.net/reason/rss",
+			"rss_alt": "https://reason.com/rss",
+			"google_news_url": "https://news.google.com/rss/search?q=source:reason.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		}
+	}
+}
