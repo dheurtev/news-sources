@@ -1,0 +1,31 @@
+{
+	"name": "EN-US-DEM",
+	"info": "Top US TV Channels, Newspapers and Magazines for Democrats",
+	"date_created": "2022-08-14T00:00:00Z",
+	"date_modified": "2022-08-14T00:00:00Z",
+	"date_deactivated": "",
+	"count": 17,
+	"comment": "",
+	"active": true,
+	"source": "twitter",
+	"country": "us",
+	"language": "en",
+	"accounts": [
+		"cnnbrk",
+		"CNNPolitics",
+		"CNN",
+		"MSNBC",
+		"Slate",
+		"voxdotcom",
+		"theintercept",
+		"NewYorker",
+		"MotherJones",
+		"VanityFair",
+		"thedailybeast",
+		"HuffPost",
+		"TheAtlantic",
+		"latimes",
+		"washingtonpost",
+		"monthly"
+	]
+}
