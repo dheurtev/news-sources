@@ -1,0 +1,129 @@
+{
+	"name": "EN-US-DEM-BIAS",
+	"info": "Top US TV Channels, Newspapers and Magazines with a Democrat bias",
+	"date": "2022-08-14T00:00:00Z",
+	"count": 17,
+	"comment": "",
+	"active": true,
+	"sources": {
+		"CNN_BREAKING": {
+			"website": "https://www.cnn.com/",
+			"twitter": "cnnbrk",
+			"rss_twitter": "https://nitter.net/cnnbrk/rss",
+			"rss_alt": "http://rss.cnn.com/rss/cnn_latest.rss",
+			"google_news_url": ""
+		},
+		"CNN_US": {
+			"website": "https://us.cnn.com/",
+			"twitter": "CNNPolitics",
+			"rss_twitter": "https://nitter.net/CNNPolitics/rss",
+			"rss_alt": "http://rss.cnn.com/rss/cnn_us.rss",
+			"google_news_url": ""
+		},
+    "CNN_WORLD": {
+  		"website": "https://www.cnn.com/",
+	  	"twitter": "CNN",
+		  "rss_twitter": "https://nitter.net/CNN/rss",
+			"rss_alt": "http://rss.cnn.com/rss/cnn_world.rss",
+			"google_news_url": "https://news.google.com/rss/search?q=source:cnn.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"MSNBC": {
+			"website": "https://www.msnbc.com/",
+			"twitter": "MSNBC",
+			"rss_twitter": "https://nitter.net/MSNBC/rss",
+			"rss_alt": "https://feeds.nbcnews.com/msnbc/public/news",
+			"google_news_url": ""
+		},
+		"SLATE": {
+			"website": "https://slate.com/",
+			"twitter": "Slate",
+			"rss_twitter": "https://nitter.net/Slate/rss",
+			"rss_alt": "https://slate.com/feeds/all.rss",
+			"google_news_url": "https://news.google.com/rss/search?q=source:slate.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"VOX": {
+			"website": "https://vox.com",
+			"twitter": "voxdotcom",
+			"rss_twitter": "https://nitter.net/voxdotcom/rss",
+			"rss_alt": "https://www.vox.com/rss/index.xml",
+			"google_news_url": "https://news.google.com/rss/search?q=source:vox.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"THE_INTERCEPT": {
+			"website": "theintercept",
+			"twitter": "https://theintercept.com/",
+			"rss_twitter": "https://nitter.net/theintercept/rss",
+			"rss_alt": "https://theintercept.com/feed/?rss",
+			"google_news_url": "https://news.google.com/rss/search?q=source:theintercept.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"THE_NEW_YORKER": {
+			"website": "https://www.newyorker.com/",
+			"twitter": "NewYorker",
+			"rss_twitter": "https://nitter.net/NewYorker/rss",
+			"rss_alt": "https://www.newyorker.com/feed/everything",
+			"google_news_url": "https://news.google.com/rss/search?q=source:newyorker.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"MOTHER_JONES": {
+			"website": "https://www.motherjones.com/",
+			"twitter": "MotherJones",
+			"rss_twitter": "https://nitter.net/MotherJones/rss",
+			"rss_alt": "https://www.motherjones.com/feed/",
+			"google_news_url": "https://news.google.com/rss/search?q=source:motherjones.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"VANITY_FAIR": {
+			"website": "https://www.vanityfair.com/",
+			"twitter": "VanityFair",
+			"rss_twitter": "https://nitter.net/VanityFair/rss",
+			"rss_alt": "https://www.vanityfair.com/feed/rss",
+			"google_news_url": "https://news.google.com/rss/search?q=source:vanityfair.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"VICE": {
+			"website": "https://www.vice.com/en",
+			"twitter": "VICE",
+			"rss_twitter": "https://nitter.net/VICE/rss",
+			"rss_alt": "https://www.vice.com/en/rss",
+			"google_news_url": "https://news.google.com/rss/search?q=source:vice.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"DAILY_BEAST": {
+			"website": "https://www.thedailybeast.com/",
+			"twitter": "thedailybeast",
+			"rss_twitter": "https://nitter.net/thedailybeast/rss",
+			"rss_alt": "https://feeds.thedailybeast.com/rss/articles",
+			"google_news_url": "https://news.google.com/rss/search?q=source:thedailybeast.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"HUFFPOST": {
+			"website": "https://www.huffpost.com/",
+			"twitter": "HuffPost",
+			"rss_twitter": "https://nitter.net/HuffPost/rss",
+			"rss_alt": "https://chaski.huffpost.com/us/auto/vertical/us-news",
+			"google_news_url": "https://news.google.com/rss/search?q=source:huffpost.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"THE_ATLANTIC": {
+			"website": "https://www.theatlantic.com/latest/",
+			"twitter": "TheAtlantic",
+			"rss_twitter": "https://nitter.net/TheAtlantic/rss",
+			"rss_alt": "https://www.theatlantic.com/feed/all/",
+			"google_news_url": "https://news.google.com/rss/search?q=source:theatlantic.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"LA_TIMES": {
+			"website": "https://www.latimes.com/",
+			"twitter": "latimes",
+			"rss_twitter": "https://nitter.net/latimes/rss",
+			"rss_alt": "https://www.latimes.com/world-nation/rss2.0.xml",
+			"google_news_url": "https://news.google.com/rss/search?q=source:latimes.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"WASHINGTON_POST": {
+			"website": "https://www.washingtonpost.com/",
+			"twitter": "washingtonpost",
+			"rss_twitter": "https://nitter.net/washingtonpost/rss",
+			"rss_alt": "https://feeds.washingtonpost.com/rss/national?itid=lk_inline_manual_38",
+			"google_news_url": "https://news.google.com/rss/search?q=source:washingtonpost.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		},
+		"WASHINGTON_MONTHLY": {
+			"website": "https://washingtonmonthly.com/",
+			"twitter": "monthly",
+			"rss_twitter": "https://nitter.net/monthly/rss",
+			"rss_alt": "https://washingtonmonthly.com/feed/",
+			"google_news_url": "https://news.google.com/rss/search?q=source:washingtonmonthly.com&um=1&ie=UTF-8&hl=en-US&gl=US&ceid=US:en"
+		}
+  }
+}
